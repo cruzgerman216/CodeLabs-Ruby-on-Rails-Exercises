@@ -40,7 +40,7 @@ Create a Ruby file called exercise-2.1.rb.
 3. Use an `else` statement to print out `You're not who I'm looking for ` follow by the name the user entered.
 4. Use the built in string method `downcase` to downcase all letters of the user input in case the user enters `JoHn`.
 5. Change the print statement to `What is your first name?` Store user input in a variable. Add another print statement, `What is your last name?`. Store user input in a variable. Use the `if` statement to check to see if the first name is `john` and last name is `doe`. 
-6. Add an `elsif` statement to check if the first name and last name equate to `Amy Jeans`. If so, print `Amy! Help me look for John Doe.`
+6. Add an `elsif` statement to check if the first name and last name equate to `amy jeans`. If so, print `Amy! Help me look for John Doe.`
 
 **Exercise 2.2: Arrays and iterators** <br>
 Create a Ruby file called exercise-2.2.rb. 

@@ -91,3 +91,65 @@ Create a Ruby file called exercise-3.6.rb
 1. Define a class called Person. 
 2. Define a module called traits. In the module, define a method called eat and print out "Eating".
 3. Include the module in the Person methods. Allow each person instance to call these methods the module gives.
+
+
+## Practice The Technical Interview
+*Keep in mind, your skill level in solving algorithm challenges is separate from your skills in developing applications. In technical interviews, you may be told to solve these commonly used code challenges.*
+
+**Exercise 3.7: Two Sum [leetcode](https://leetcode.com/problems/add-strings/)** <br> 
+Create a Ruby file called exercise-3.7.rb
+
+I won't go easy on you...
+
+Given two non-negative integers, num1 and num2 represented as string, return the sum of num1 and num2 as a string.
+
+You must solve the problem without using any built-in library for handling large integers (such as BigInteger). You must also not convert the inputs to integers directly.
+
+Example 1: <br>
+
+Input: num1 = "11", num2 = "123" <br>
+Output: "134" <br>
+Example 2: <br>
+
+Input: num1 = "456", num2 = "77" <br>
+Output: "533" <br>
+Example 3: <br>
+
+Input: num1 = "0", num2 = "0" <br>
+Output: "0" <br>
+
+**Exercise 3.8: Two Sum [leetcode](https://leetcode.com/problems/two-sum/)** <br> 
+Create a Ruby file called exercise-3.8.rb
+
+Good job on the last question, let's see if you can figure this one out! 
+
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+You can return the answer in any order.
+
+Example 1:
+
+Input: nums = [2,7,11,15], target = 9 <br>
+Output: [0,1] <br>
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1]. <br>
+
+Example 2: <br>
+
+Input: nums = [3,2,4], target = 6 <br>
+Output: [1,2] <br>
+
+Example 3: <br>
+
+Input: nums = [3,3], target = 6 <br>
+Output: [0,1] <br>
+
+**Exercise 3.9: Linked list** 
+Create a Ruby file called exercise-3.9.rb
+
+You're tough if you made it this far.
+
+Create a linked list in Ruby.
+
+Then, create a doubly linked list.
