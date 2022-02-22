@@ -24,7 +24,6 @@ Copy and paste the contents of Part 2 in your README.md file.
 <em>**What is meant by 'built-in' methods?**</em> - INSERT DEFINITION HERE <br>
 <em>**Loops**</em> - INSERT DEFINITION HERE <br>
 <em>**What are infinite loops?**</em> - INSERT DEFINITION HERE <br>
-<em>**What is meant by 'built-in' methods?**</em> - INSERT ANSWER HERE <br>
 ## Part 3
 
 ## Part 4
