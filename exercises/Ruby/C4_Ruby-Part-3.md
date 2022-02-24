@@ -17,11 +17,11 @@ Copy and paste the contents of Part 2 in your README.md file.
 
 ## Part 3
 <em>**What is Object Oriented Programming?**</em> - INSERT DEFINITION HERE <br>
-<em>**Class inheritance**</em> - INSERT DEfINNITION HERE <br>
+<em>**Class inheritance**</em> - INSERT DEFINITION HERE <br>
 <em>**What are getters and setters?**</em> - INSERT ANSWER HERE <br>
 <em>**Difference between class variables and instance variables and class attributes?**</em> - INSERT ANSWER HERE <br>
 <em>**What does self signify in a class?**</em> - INSERT ANSWER HERE <br>
-<em>**Modules</em> - INSERT DEfINNITION HERE <br>
+<em>**Modules</em> - INSERT DEFINITION HERE <br>
 
 ## Part 4
 ```
@@ -57,7 +57,7 @@ Create a Ruby file called exercise-3.3.rb.
 
 1. Define a class called `Rectangle` with instance variables `length` and `width`.
 2. Define an instance method called `area`. This method should return the multiplication of `length` and `width`.
-3. Define an instance method called `parameter`. This should return the addition of all sides of the "rectangle" such as 
+3. Define an instance method called `perimeter`. This should return the addition of all sides of the "rectangle" such as 
 ```
 w + w + l + l
 ```
@@ -83,7 +83,7 @@ Create a Ruby file called exercise-3.5.rb.
 5. Make `Doctor`, `Teacher`, and `Engineer`inherit from `Person`.
 6. For each class except Person, upon instantiation, print out "I am a " follow by the type of profession this person is in. 
 For example, "I am a Doctor!".
-7. Create a doctor instance, teacher instance, and engineer instance and check if they contain these atrtributes and methods inherited from the parent class `Person`.
+7. Create a doctor instance, teacher instance, and engineer instance and check if they contain these attributes and methods inherited from the parent class `Person`.
 
 **Exercise 3.6: Modules**
 Create a Ruby file called exercise-3.6.rb
@@ -96,7 +96,7 @@ Create a Ruby file called exercise-3.6.rb
 ## Practice The Technical Interview
 *Keep in mind, your skill level in solving algorithm challenges is separate from your skills in developing applications. In technical interviews, you may be told to solve these commonly used code challenges.*
 
-**Exercise 3.7: Two Sum [leetcode](https://leetcode.com/problems/add-strings/)** <br> 
+**Exercise 3.7: Add Strings [leetcode](https://leetcode.com/problems/add-strings/)** <br> 
 Create a Ruby file called exercise-3.7.rb
 
 I won't go easy on you...
