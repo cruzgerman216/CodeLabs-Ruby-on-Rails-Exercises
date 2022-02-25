@@ -110,9 +110,11 @@ Create a Ruby file called exercise-3.7.rb
 
 **I won't go easy on you...**
 
+```
 Given two non-negative integers, num1 and num2 represented as string, return the sum of num1 and num2 as a string.
 
 You must solve the problem without using any built-in library for handling large integers (such as BigInteger). You must also not convert the inputs to integers directly.
+```
 
 Example 1: <br>
 
@@ -132,11 +134,13 @@ Create a Ruby file called exercise-3.8.rb
 
 **Good job on the last question, let's see if you can figure this one out!**
 
+```
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
 You can return the answer in any order.
+```
 
 Example 1:
 
@@ -159,9 +163,11 @@ Create a Ruby file called exercise-3.9.rb
 
 **You're tough if you made it this far.**
 
+```
 Create a linked list in Ruby.
 
 Then, create a doubly linked list.
+```
 
 ---
 
