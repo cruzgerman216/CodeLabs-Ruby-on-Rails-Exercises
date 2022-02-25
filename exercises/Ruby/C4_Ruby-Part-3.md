@@ -154,7 +154,7 @@ Example 3: <br>
 Input: nums = [3,3], target = 6 <br>
 Output: [0,1] <br>
 
-**Exercise 3.9: Linked list** 
+**Exercise 3.9: Linked list** <br>
 Create a Ruby file called exercise-3.9.rb
 
 **You're tough if you made it this far.**
