@@ -9,7 +9,7 @@
 **You can use one project for all exercises**<br>
 
 **Exercise 3.0: Terminology** 
-Copy and paste the contents of Part 2 in your README.md file.
+Copy and paste the contents of Part 3 in your README.md file.
 ``` 
 .
 .
