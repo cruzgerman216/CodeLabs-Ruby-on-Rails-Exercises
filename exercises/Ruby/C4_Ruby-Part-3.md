@@ -101,7 +101,7 @@ Create a Ruby file called exercise-3.6.rb
 **Exercise 3.7: Add Strings [leetcode](https://leetcode.com/problems/add-strings/)** <br> 
 Create a Ruby file called exercise-3.7.rb
 
-I won't go easy on you...
+**I won't go easy on you...**
 
 Given two non-negative integers, num1 and num2 represented as string, return the sum of num1 and num2 as a string.
 
@@ -123,7 +123,7 @@ Output: "0" <br>
 **Exercise 3.8: Two Sum [leetcode](https://leetcode.com/problems/two-sum/)** <br> 
 Create a Ruby file called exercise-3.8.rb
 
-Good job on the last question, let's see if you can figure this one out! 
+**Good job on the last question, let's see if you can figure this one out!**
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
@@ -150,7 +150,7 @@ Output: [0,1] <br>
 **Exercise 3.9: Linked list** 
 Create a Ruby file called exercise-3.9.rb
 
-You're tough if you made it this far.
+**You're tough if you made it this far.**
 
 Create a linked list in Ruby.
 
