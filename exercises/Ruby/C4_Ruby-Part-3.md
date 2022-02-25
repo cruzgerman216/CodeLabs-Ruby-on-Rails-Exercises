@@ -75,8 +75,8 @@ Create a Ruby file called exercise-3.4.rb.
 **Exercise 3.5: Class inheritance** <br>
 Create a Ruby file called exercise-3.5.rb.
 
-1. Define four class `Person`, `Doctor`, `Teacher` and `Engineer`. 
-2. In the Person class, define an instance method called `eat` with a paramter called food. This method should print out "Eating " follow by food. 
+1. Define four classes: `Person`, `Doctor`, `Teacher` and `Engineer`. 
+2. In the Person class, define an instance method called `eat` with a parameter called food. This method should print out "Eating " follow by the parameter. 
 3. In `Person`, create attributes `weight`, `height`, `name`. 
 4. In `Person`, define an initialize method and set these attributes by passing in arguments upon instantiation.
 5. Make `Doctor`, `Teacher`, and `Engineer`inherit from `Person`.
@@ -89,10 +89,13 @@ Create a Ruby file called exercise-3.6.rb
 
 1. Define a class called Person. 
 2. Define a module called traits. In the module, define a method called eat and print out "Eating".
-3. Include the module in the Person methods. Allow each person instance to call these methods the module gives.
+3. Include the module in the Person class. Allow each person instance to call these methods the module gives.
 
 
 ## Practice The Technical Interview 
+
+<img src="https://assets.website-files.com/5f45dcafd2144b042ed84cfd/5f47ee151225c1378e7b9f6b_136_1588099272.png">
+
 *Keep in mind, your skill level in solving algorithm challenges is separate from your skills in developing applications. In technical interviews, you may be told to solve these commonly used code challenges.*
 
 **Exercise 3.7: Add Strings [leetcode](https://leetcode.com/problems/add-strings/)** <br> 
@@ -152,3 +155,7 @@ You're tough if you made it this far.
 Create a linked list in Ruby.
 
 Then, create a doubly linked list.
+
+---
+
+:wave: Saw a mispelled word? Want to improve the class exercises? Create a **pull request** and **contribute**! 
