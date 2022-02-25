@@ -28,14 +28,14 @@ Copy and paste the contents of Part 3 in your README.md file.
 
 - replace each <em>INSERT DEFINITION/ANSWER HERE</em> with the correct definition/answer in your own words. Using external resources are recommended.<br>
 
-**Exercise 3.1: Basic class**
+**Exercise 3.1: Basic class** <br>
 Create a Ruby file called exercise-3.1.rb. 
 
 1. Define a class called `box`
 2. Create three new `box` instances.
 
 
-**Exercise 3.2: Animal class**
+**Exercise 3.2: Animal class** <br>
 Create a Ruby file called exercise-3.2.rb. 
 
 1. Define a class called `Animal` and set attributes `name`, `animal_type` and `color` using the method attr_accessors (keep in mind, attributes refer to instance variables).
@@ -52,7 +52,7 @@ Output
 
 4. Create an instance method called `intro`. When you call `intro`, it should print `Hey, my name is Clifford. I'm red and I am a dog` to the console. Use string interpolation to do this.
 
-**Exercise 3.3: Rectangle class**
+**Exercise 3.3: Rectangle class** <br>
 Create a Ruby file called exercise-3.3.rb. 
 
 1. Define a class called `Rectangle` with instance variables `length` and `width`.
@@ -64,7 +64,7 @@ w + w + l + l
 w refers to width 
 l refers to length
 
-**Exercise 3.4: Human class**
+**Exercise 3.4: Human class** <br>
 Create a Ruby file called exercise-3.4.rb. 
 
 1. Define a class called `Person` and set instance attributes `name` and `age` using the method attr_accessors.
@@ -73,7 +73,7 @@ Create a Ruby file called exercise-3.4.rb.
 4. Every time an instance gets created, push that instance in the class variable people. Do so in the initialize method.
 5. Create a class method called `print_all_people`. Loop through people and print each name and age in the format of `"Name: John Doe, Age: 54"`. Call this method to see if the results are correct.
 
-**Exercise 3.5: Class inheritance** 
+**Exercise 3.5: Class inheritance** <br>
 Create a Ruby file called exercise-3.5.rb.
 
 1. Define four class `Person`, `Doctor`, `Teacher` and `Engineer`. 
@@ -85,7 +85,7 @@ Create a Ruby file called exercise-3.5.rb.
 For example, "I am a Doctor!".
 7. Create a doctor instance, teacher instance, and engineer instance and check if they contain these attributes and methods inherited from the parent class `Person`.
 
-**Exercise 3.6: Modules**
+**Exercise 3.6: Modules** <br>
 Create a Ruby file called exercise-3.6.rb
 
 1. Define a class called Person. 
@@ -93,7 +93,7 @@ Create a Ruby file called exercise-3.6.rb
 3. Include the module in the Person methods. Allow each person instance to call these methods the module gives.
 
 
-## Practice The Technical Interview
+## Practice The Technical Interview 
 *Keep in mind, your skill level in solving algorithm challenges is separate from your skills in developing applications. In technical interviews, you may be told to solve these commonly used code challenges.*
 
 **Exercise 3.7: Add Strings [leetcode](https://leetcode.com/problems/add-strings/)** <br> 
