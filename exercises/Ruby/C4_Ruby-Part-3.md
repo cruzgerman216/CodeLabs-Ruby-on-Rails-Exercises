@@ -53,7 +53,7 @@ Create a Ruby file called exercise-3.2.rb.
 
 Output 
 ```
-> My name is Clifford. 
+> Hey, my name is Clifford. 
 > I am a dog.
 > My fur color is red.
 ```
