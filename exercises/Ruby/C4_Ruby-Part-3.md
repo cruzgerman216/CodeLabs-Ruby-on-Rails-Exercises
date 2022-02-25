@@ -35,6 +35,13 @@ Create a Ruby file called exercise-3.1.rb.
 2. Create three new `box` instances.
 
 
+Output 
+```
+> #<Box:0x00007fa5820e6508> 
+> #<Box:0x00007fa58294a730> 
+> #<Box:0x00007fa5850276c8> 
+```
+
 **Exercise 3.2: Animal class** <br>
 Create a Ruby file called exercise-3.2.rb. 
 
