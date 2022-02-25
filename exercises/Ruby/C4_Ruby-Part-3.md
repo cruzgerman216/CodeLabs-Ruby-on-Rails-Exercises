@@ -31,8 +31,8 @@ Copy and paste the contents of Part 3 in your README.md file.
 **Exercise 3.1: Basic class** <br>
 Create a Ruby file called exercise-3.1.rb. 
 
-1. Define a class called `box`
-2. Create three new `box` instances.
+1. Define a class called `Box`
+2. Create three new `Box` instances.
 
 
 Output 
