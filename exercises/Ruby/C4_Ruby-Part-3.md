@@ -56,7 +56,7 @@ Create a Ruby file called exercise-3.3.rb.
 
 1. Define a class called `Rectangle` with instance variables `length` and `width`.
 2. Define an instance method called `area`. This method should return the multiplication of `length` and `width`.
-3. Define an instance method called `perimeter`. This should return the addition of all sides of the "rectangle" such as 
+3. Define an instance method called `perimeter`. This should return the addition of all sides of the "rectangle". Refer to the mathematical formula below:
 ```
 w + w + l + l
 ```
