@@ -164,3 +164,5 @@ puts "I have #{name.length} characters in my name."
 Create a ruby file called exercise-1.9.rb
 
 Create four methods: add, subtract, divide and multiply. Each method should have two parameters. Each method should do a basic level of an expression involving a certain operator and the given two parameters. For example, in the `add` method, you will use the `+` to evaluate the addition of both parameters. 
+
+:wave: Saw a misspelled word? Want to improve the class exercises? Create a **pull request** and **contribute**! 

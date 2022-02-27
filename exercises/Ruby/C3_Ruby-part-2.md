@@ -220,4 +220,4 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
 ---
 
-:wave: Saw a mispelled word? Want to improve the class exercises? Create a **pull request** and **contribute**! 
+:wave: Saw a misspelled word? Want to improve the class exercises? Create a **pull request** and **contribute**! 
