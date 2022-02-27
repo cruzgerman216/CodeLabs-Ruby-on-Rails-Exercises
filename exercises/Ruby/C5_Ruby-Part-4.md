@@ -24,7 +24,7 @@ Copy and paste the contents of Part 3 in your README.md file.
 
 Project
 
-**4.1 login + cli**
+**4.1 login + cli** <br>
 Create a Ruby file called exercise-4.1.rb
 
 1. Copy and Paste the following
@@ -111,5 +111,9 @@ In the `while` Loop,
 4. `login` will return nil or the user, store whatever it returns in a variable called user. 
 5. If the user exists (meaning if it is not nil) and is 'logged in', then print "Logged in succesful!" and then set `isLoggedIn` to true. This will stop the `while` loop.
 6. Otherwise, increment `tries` and then print `Attempt #{tries} / 3`.
+
+
+### Project Bound 
+<a href="https://github.com/cruzgerman216/CodeLabs-Ruby-on-Rails-Exercises/blob/main/projects/Ruby-CLI-Project.md">Ruby CLI Project</a>
 
 :wave: Saw a misspelled word? Want to improve the class exercises? Create a **pull request** and **contribute**!

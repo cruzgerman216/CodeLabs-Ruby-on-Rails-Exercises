@@ -10,7 +10,7 @@
 You've gone through Ruby syntax and most importantly programming fundamentals. That should be enough to create an awesome Ruby CLI, a command line interface. 
 
 ## Setup 
-```bundle gem project_name` to create a gem. Use the directory/file structure to your advantage to organize files. 
+`bundle gem project_name` to create a gem. Use the directory/file structure to your advantage to organize files. 
 
 ### bin/run 
 Under bin, create a file called `run`. Use the shebang line ```#!/usr/bin/env ruby ``` at the top of your file. Now if you enter `bin/run` in the terminal, it should execute `run` as a ruby file. 
@@ -27,7 +27,7 @@ Copy and paste:
 TODO: Add project summary
 ```
 
-Fufill each todo. 
+Fulfill each todo. 
 
 ## Requirements 
 You can code anything in this project as long as it meets the requirements: 
