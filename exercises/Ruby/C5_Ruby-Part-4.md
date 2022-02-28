@@ -8,8 +8,8 @@
 
 **You can use one project for all exercises**<br>
 
-**Exercise 3.0: Terminology**
-Copy and paste the contents of Part 3 in your README.md file.
+**Exercise 4.0: Terminology**
+Copy and paste the contents of Part 4 in your README.md file.
 
 ```
 .
@@ -17,7 +17,7 @@ Copy and paste the contents of Part 3 in your README.md file.
 .
 
 ## Part 4
-<em>**Bundler**<em> - INSERT DEFINTION HERE <br>
+<em>**Bundler**<em> - INSERT DEFINITION HERE <br>
 <em>**Gemfile**<em> - INSERT DEFINITION HERE <br>
 <em>**Bcrypt**<em> - INSERT DEFINITION HERE <br>
 ```
