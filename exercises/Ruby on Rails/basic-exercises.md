@@ -1,7 +1,5 @@
 # Ruby on Rails Exercises
 
-## READ BEFORE STARTING
-
 **<em>Exercise 1</em>: Creating a basic Rails app**
 
 - Generate a rails application called `my-first-rails-app`
