@@ -24,6 +24,7 @@
 - In the `movies_list` method, render the `movies.html.erb` file. ([this](https://guides.rubyonrails.org/v4.1/layouts_and_rendering.html) may help you )
 - Create a path that routes to `/movies-list` and set up the corresponding controller and method.
 - run `rails s`, you should be able to see `List of Movies` in 'localhost:3000/movies-list'
+
 ![Project Structure](../../assets/Rails/C7/Exercise-2.png)
 
 - push to GitHub
@@ -33,7 +34,8 @@
 - Generate a Rails application called `rails-basic-scaffold-app`
 - Use the scaffold command to generate `Post` which includes fields `title` which is of type `string` and `description` which is of type `text`.
 - Because you generated a model, create a schema by migrating the files using `rails db:migrate`
-- run `rails s` and go through the application.
+- run `rails s` and go through the application
+
 ![Project Structure](../../assets/Rails/C7/Exercise-3.png)
 
 - push to GitHub
@@ -47,4 +49,5 @@
 - Create another route that is set to the `about` method in the pages controller
 - Create an ERB for each home and about method with a couple of HTML elements
 - Render both erb files to the corresponding methods that exist in the pages controller
+
 ![Project Structure](../../assets/Rails/C7/Exercise-4.png)
