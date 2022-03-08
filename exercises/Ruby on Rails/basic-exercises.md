@@ -8,7 +8,7 @@
 - Define a `PagesController` class and an instance method called `profile`.
 - Create a profile.html.erb under `pages` in `views`.
 - Create an `h1` with content "My profile Page"
-- Create a path that routes to 'myprofile' in the URL and setup the corresponding controller and method.
+- Create a path that routes to 'myProfile' in the URL and setup the corresponding controller and method.
 
 ![Project Structure](../../assets/Rails/C7/Exercise-1.png)
 
