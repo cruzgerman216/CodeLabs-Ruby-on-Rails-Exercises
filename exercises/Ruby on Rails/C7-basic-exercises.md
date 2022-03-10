@@ -49,3 +49,6 @@
 - Render both erb files to the corresponding methods that exist in the pages controller
 
 ![Project Structure](../../assets/Rails/C7/Exercise-4.png)
+
+---
+:wave: Saw a misspelled word? Want to improve the class exercises? Create a **pull request** and **contribute**!

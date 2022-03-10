@@ -45,3 +45,7 @@ You can code anything in this project as long as it meets the requirements:
 - Incorporate a login/logout system using BCrypt
 - Send requests to an API to capture data
 - Publish your Gem to `RubyGems`
+
+---
+
+:wave: Saw a misspelled word? Want to improve the class exercises? Create a **pull request** and **contribute**!
