@@ -15,11 +15,6 @@ Topics Covered:
 
 Complete the following requirements:
 
-<br>
-
----
-
-<br>
 
 - What is your project about? Here are some helpful links to help you decided what to develop:
   - [Link 1](https://github.com/florinpop17/app-ideas)
