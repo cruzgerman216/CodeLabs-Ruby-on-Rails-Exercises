@@ -26,9 +26,9 @@ Complete the following requirements:
 - GitHub
   - Publish to GitHub publicly 
   - Create a separate branch to work on 
-- Use [app.diagrams.net](https://app.diagrams.net/) to create a `diagram`. 
-  - Create at least one `table` that is a representation of a table in your schema file. Here is an example. 
-![Example diagram](../../assets/Rails/C8/example.png)
+- Use [app.diagrams.net](https://app.diagrams.net/) to create an [ER diagram](https://www.lucidchart.com/pages/er-diagrams). 
+  - Create at least one `"entity"` that is a representation of a table in your schema file. Here is an example. 
+![Example diagram](../../assets/Rails/C8/example2.png)
 - Generate a `migration` file. In the migration file include the following:
   - Create a table 
   - Include at least two `attributes` (columns)
