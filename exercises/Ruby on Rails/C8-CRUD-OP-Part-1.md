@@ -28,7 +28,6 @@ Complete the following requirements:
 - Generate a Rail's application
 - GitHub
   - Publish to GitHub publicly
-  - Create a separate branch to work on
 - Use [app.diagrams.net](https://app.diagrams.net/) to create an [ER diagram](https://www.lucidchart.com/pages/er-diagrams).
   - Create at least one `"entity"` that is a representation of a table in your schema file. Here is an example.
     ![Example diagram](../../assets/Rails/C8/example2.png)
@@ -43,8 +42,9 @@ Complete the following requirements:
   - One file should display some data from the DB. Use the `rails console` to create a few records.
 - Create at least two `routes`. Each route should present to the user a view.
 - Define the `root` route
+- Push to GitHub
 - Deploy to `Heroku`
-- `Push` to `GitHub` to current branch or make a pull request to the main branch (merge to main on GitHub).
+
 
 <br>
 
