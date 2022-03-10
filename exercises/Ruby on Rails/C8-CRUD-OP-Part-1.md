@@ -55,6 +55,8 @@ Complete the following requirements:
 **Further Exploration**
 
 - byebug gem
+- [ER Diagrams](https://www.lucidchart.com/pages/er-diagrams)
+- Create a [custom validation](https://guides.rubyonrails.org/v6.1/active_record_validations.html)
 
 **Resources**
 
