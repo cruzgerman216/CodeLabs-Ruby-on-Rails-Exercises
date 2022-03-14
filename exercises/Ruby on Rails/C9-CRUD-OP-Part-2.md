@@ -11,7 +11,7 @@ Complete the following:
 - Include at least one flash message in your view
 - Include at least one error message in your view
 - Use the `resource` method at least once in your routes.rb file
-- Push changes to `Heroku` 
+- Push changes to GitHub and`Heroku` 
   - If migration files are pending on Heroku, run `heroku run rails db:migrate` in the terminal.
 
 <br>
