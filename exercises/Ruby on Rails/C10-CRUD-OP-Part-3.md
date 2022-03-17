@@ -9,7 +9,7 @@ Complete the following:
 
 - Include links to pages. For example, in the index page, include a link to create a record
 - Refactor your code (remove all DRY code) and add partials
-- In regards to style, use 2 spaces indentations instead of tab spaces
+- In regards to style, use 2 space indentations instead of tab spaces
 - Remove business logic from controllers and views
 - The view should have as little Ruby code as possible
 - Push changes to GitHub and `Heroku` 
@@ -29,7 +29,7 @@ Complete the following:
 **Resources**
 - [Rails 6.0 docs](https://guides.rubyonrails.org/v6.0/)
 - [Rails 6.1 docs](https://guides.rubyonrails.org/v6.1/)
-- [Class Notes](https://github.com/cruzgerman216/CodeLabs-Ruby-on-Rails-Class-Notes/blob/main/C09-CRUD-Operations-Part-2/BookIt_app_part_3.md)
+- [Class Notes](https://github.com/cruzgerman216/CodeLabs-Ruby-on-Rails-Class-Notes/blob/main/C10-CRUD-Operations-Part-3/BookIt_app_part_3.md)
 
 <br>
 
