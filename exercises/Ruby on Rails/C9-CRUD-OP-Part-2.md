@@ -22,7 +22,7 @@ Complete the following:
 
 **Further Exploration/Challenges**
 
-- Reroute the user if he/she types in an incorrect url path. 
+- Reroute the user if they type in an incorrect url path. 
 - Create a dynamic route
 - [Caching with Rails](https://guides.rubyonrails.org/v6.1/caching_with_rails.html)
 
