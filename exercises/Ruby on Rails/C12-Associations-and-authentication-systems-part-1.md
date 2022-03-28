@@ -9,9 +9,9 @@ Complete the following:
   - Every user should be able to sign up
   - Every user should have a profile page or dashboard
   - Update their information (email, password, ect)
-- Create at least one belongs_to assocation
-- Create at least one has_many association
-- Update views and styles.
+- Create at least one `belongs_to` assocation
+- Create at least one `has_many` association
+- Update views and styles
 
 - Push changes to GitHub and `Heroku`
 
@@ -24,7 +24,7 @@ Complete the following:
 **Further Exploration/Challenges**
 
 - Since you have users implemented to your application, populate the db using Faker. 
-- Implement a private feature for user profiles. 
+- Implement a private feature for user profiles
 - Association callbacks and validations (For example, A book cannot belong to an Author unless he/she is active)
 - Resurface [caching](https://guides.rubyonrails.org/association_basics.html#controlling-caching) 
 
