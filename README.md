@@ -12,5 +12,6 @@
 - [Class 10 CRUD Operations Part 3](exercises/Ruby%20on%20Rails/C10-CRUD-OP-Part-3.md)
 - [Class 11 Styling](exercises/Ruby%20on%20Rails/C11-Styling.md)
 - [Class 13 Associations and Authentication System Part 1](exercises/Ruby%20on%20Rails/C13-Associations-and-authentication-systems-part-1.md)
+- [Class 14 Associations and Authentication System Part 2](exercises/Ruby%20on%20Rails/../Ruby%20on%20Rails/C14-Associations-and-authentication-part-2.md)
 ## Projects
 - [Ruby](projects/Ruby/Ruby-CLI-Project.md) 
