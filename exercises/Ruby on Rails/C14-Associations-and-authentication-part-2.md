@@ -4,7 +4,7 @@
 
 Complete the following:
 
-- Users should be able to login, logout.
+- Users should be able to login, logout and delete their account.
 - Implement auto login.
 - Update views and styles
 
