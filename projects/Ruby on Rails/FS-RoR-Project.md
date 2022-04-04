@@ -10,7 +10,7 @@
 
 ## Requirements
 
-- At least one `has_many`, `belongs_to`, and at least two `has_many :through` relationships
+- At least one `has_many`, `belongs_to`, and at least two `has_many` associations
 - Implement at least one `many-to-many` relationship with `has_many :through` association
 - Define at least one scope method in your model that uses a custom query method such as `where` and `order`.
 - Create a user authentication system (login/signup/logout). Devise is not permittable.
