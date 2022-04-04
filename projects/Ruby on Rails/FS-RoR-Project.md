@@ -18,7 +18,7 @@
 - Define RESTful routes (resources).
 - Include flash messages as well as error validation messages.
 - Your application must be DRY (Don't-Repeat-Yourself).
-- Application must be styled, Botstrap 5/SASS/ect is permittable.
+- Application must be styled, Bootstrap 5/SASS/ect is permittable.
 - Pick at least one model/controller to test
 - Deploy to Heroku.
 
