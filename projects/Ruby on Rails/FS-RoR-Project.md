@@ -15,7 +15,7 @@
 - Define at least one scope method in your model that uses a custom query method such as `where` and `order`.
 - Create a user authentication system (login/signup/logout). Devise is not permittable.
 - Define RESTful routes (resources).
-- Include flash messages as well as error validaton messages.
+- Include flash messages as well as error validation messages.
 - Your application must be DRY (Don't-Repeat-Yourself).
 - Application must be styled, Botstrap 5/SASS/ect is permittable.
 - Pick at least one model/controller to test
@@ -30,7 +30,7 @@ Example Domains
 - Create a Facebook clone. Users are able to friend other users. Users are able to create posts, like posts and comment under posts.
 
 Restricted Domains 
-- Blog site
+- Blog Site
 - Book Application
 
 #### Optional Challenges
