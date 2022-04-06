@@ -13,6 +13,7 @@
 - Must have a project theme
 - At least one `has_many`, `belongs_to`, and at least two `has_many` associations
 - Implement at least one `many-to-many` relationship with `has_many :through` association
+- Must perform CRUD operations
 - Define at least one scope method in your model that uses a custom query method such as `where` and `order`.
 - Create a user authentication system (login/signup/logout). Devise is not permittable.
 - Define RESTful routes (resources).
@@ -24,6 +25,8 @@
 
 - Create a video showing off your project. Go through your deployed application as well as your code. This should be no more than 5 minutes. 
   - Title the video `Project-name - Code Labs 2021 Full Stack Ruby on Rails project`
+    - Audio is required
+    - Camera is optional
 
 Example Domains
 - A group task manager. This application revolves around a manager assigning tasks to individual users. Those users have the ability to change their assigned tasks to "complete" or "in-progress". 
