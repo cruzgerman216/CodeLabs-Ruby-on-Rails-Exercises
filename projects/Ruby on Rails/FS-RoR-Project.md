@@ -38,6 +38,7 @@ Restricted Domains
 - Book Application
 
 #### Optional Challenges
+- Upgrade from Rails 6 to Rails 7
 - Make your application into a multi-langauge by using Rails Internationalization i18n API
 - Send requests to other APIs using `faraday`. Display information to users.
 - Allow the user to login to the application using another service (Google, GitHub, ect)
