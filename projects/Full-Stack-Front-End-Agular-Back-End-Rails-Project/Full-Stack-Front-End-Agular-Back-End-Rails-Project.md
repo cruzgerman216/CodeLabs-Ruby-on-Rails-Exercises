@@ -8,7 +8,7 @@
 </div>
 
 
-**Congratulations, you did it! You've work so hard to get to this point and now we can incorporate eveything we've learn to create a Full Stack Angular and Rails Project!**
+**Congratulations, you did it! You've worked so hard to get to this point and now we can incorporate everything we've learned to create a Full Stack Angular and Rails Project!**
 
 
 ## READ BEFORE STARTING
@@ -26,7 +26,7 @@
     1. A user clicks on a button that says "Get Books" 
     2. Your Front End Application will then send a request to your API 
     3. Your API recieves the request, gets books from DB and sends it to your Front End 
-    4. The Front End recieves the response and does something on the client
+    4. The Front End receives the response and does something on the client
 - Both Applications must be deployed (heroku, firebase, ect)
 
 - Create a video showing off your project. Go through your deployed application as well as your code. This should be no more than 10 minutes. 
