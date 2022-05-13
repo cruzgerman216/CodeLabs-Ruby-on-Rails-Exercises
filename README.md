@@ -16,4 +16,4 @@
 ## Projects
 - [Ruby](projects/Ruby/Ruby-CLI-Project.md)
 - [Ruby on Rails](projects/Ruby%20on%20Rails/FS-RoR-Project.md) 
-- [Full Stack Angular/Rails Project](projects/Full-Stack-Front-End-Agular-Back-End-Rails-Project/Full-Stack-Front-End-Agular-Back-End-Rails-Project.md) 
+- [Full Stack Angular/Rails Project](projects/Full-Stack-Front-End-Angular-Back-End-Rails-Project/Full-Stack-Front-End-Angular-Back-End-Rails-Project.md) 

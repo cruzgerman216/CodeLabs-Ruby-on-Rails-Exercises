@@ -145,7 +145,7 @@ Result:
 > You have typed 'I enjoy coding!'
 > What number do you want to multiply by two?
 > 5
-> 5 multipled by 2 is 10
+> 5 multiplied by 2 is 10
 > What number do you want to divide by two?
 > 10
 > 10 divided by 2 is 5
